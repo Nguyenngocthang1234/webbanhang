@@ -1,0 +1,34 @@
+{
+  "products": [
+    [
+      {
+        "id": 1,
+        "name": "Áo Thun Nam",
+        "image": "https://picsum.photos/200/300",
+        "price": 250000,
+        "description": "Áo thun cotton cao cấp, thoáng mát, phù hợp cho mọi hoạt động."
+      },
+      {
+        "id": 2,
+        "name": "Giày Sneaker",
+        "image": "https://picsum.photos/200/300",
+        "price": 800000,
+        "description": "Giày sneaker thể thao, thiết kế năng động, đế cao su chống trượt."
+      },
+      {
+        "id": 3,
+        "name": "Ba lô du lịch",
+        "image": "https://picsum.photos/200/300",
+        "price": 600000,
+        "description": "Ba lô rộng rãi, nhiều ngăn, chất liệu chống thấm nước."
+      },
+      {
+        "id": 4,
+        "name": "Mũ Lưỡi Trai",
+        "image": "https://picsum.photos/200/300",
+        "price": 150000,
+        "description": "Mũ lưỡi trai thời trang, dễ dàng điều chỉnh kích cỡ."
+      }
+    ]
+  ]
+}
